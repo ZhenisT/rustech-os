@@ -18,6 +18,11 @@ Inside `kernel.c`, the OS runs an independent input/output loop without any Linu
 
 ---
 
+## 🧰 Portable Toolbox Included!
+* **Zero Setup**: The NASM compiler (`nasm.exe`) is already included directly inside the repository toolbox. 
+* No need to configure system PATH variables or install global packages. Just clone and fire!
+
+
 ## 🚀 How to Build & Run (LLVM Dragon Combo)
 
 You don't need heavy Linux virtual machines anymore. Build **RUSTECH OS** directly in Windows using the modern LLVM toolchain:
